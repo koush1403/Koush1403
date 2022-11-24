@@ -9,7 +9,7 @@
 
 - 📖 I’m currently pursuing my bachelors in CS from Amrita Vishwa Vidyapeetham
 
-- 🌱 I’m intrested in learning **flutter, react, Tenser flow**
+- 🌱 I’m interested in learning **flutter, react, Tenser flow**
 
 - 💬 Ask me about **frontend, C++**
 
